@@ -1,0 +1,265 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:09:13.129Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:09:19.834Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:11:44.362Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:11:44.396Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:16:41.661Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:16:41.685Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:19:05.346Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:19:05.366Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:29:35.239Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:29:35.259Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:34:37.721Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:34:37.741Z"}
+error: 
+    status - 500 
+    message - ValidationError: "mail" is not allowed 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-12-14T07:35:58.130Z"}
+error: 
+    status - 500 
+    message - ValidationError: "mail" is not allowed 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-12-14T07:37:44.892Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:38:36.484Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:38:36.504Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:39:10.057Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:39:10.077Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:40:56.721Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:40:56.744Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:43:13.677Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:43:43.809Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:44:00.687Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:45:13.860Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:45:18.399Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:45:22.205Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:46:09.241Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:46:09.266Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:47:38.310Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:47:38.330Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:48:25.999Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:48:26.064Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T07:49:26.534Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T07:49:26.554Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T08:38:58.773Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T08:38:58.792Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T08:47:05.202Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T08:47:05.229Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T08:49:03.765Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T08:49:03.788Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T08:53:54.769Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T08:53:54.794Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T08:56:08.730Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T08:56:08.757Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T08:58:57.044Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T08:58:57.069Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T08:59:40.867Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T08:59:40.902Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:00:50.082Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:00:50.108Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:05:42.153Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:05:42.175Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:09:03.398Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:09:03.421Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:10:24.811Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:10:24.835Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:14:50.056Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:14:50.079Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:19:23.618Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:19:23.638Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:20:48.508Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:20:48.526Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:21:47.317Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:21:47.337Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:22:08.887Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:22:08.908Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:23:44.264Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:23:44.284Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:24:34.893Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:24:34.916Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:25:09.632Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:25:09.655Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:25:36.917Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:25:36.946Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:26:27.122Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:26:27.143Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:27:21.369Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:27:21.399Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:28:32.899Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:28:32.926Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:28:59.137Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:28:59.168Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:29:59.833Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:29:59.858Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:30:43.880Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:30:43.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:31:28.217Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:31:28.246Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:32:18.730Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:32:18.749Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:35:43.572Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:35:43.592Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:36:36.652Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:36:36.671Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:37:35.725Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:37:35.746Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:38:06.135Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:38:06.165Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:38:33.359Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:38:33.378Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:39:50.979Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:39:51.000Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:40:30.007Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:40:30.027Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:41:10.032Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:41:10.054Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:41:25.336Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:41:25.356Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:41:42.440Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:41:42.471Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:41:59.229Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:41:59.254Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:45:12.070Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:45:12.091Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:46:46.072Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:46:46.093Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:48:38.992Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:48:39.024Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:49:06.545Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:49:06.570Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:49:47.703Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:49:47.744Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:50:18.882Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:50:18.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:52:06.119Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:52:06.137Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:53:44.678Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:53:44.713Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:53:47.413Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:53:47.435Z"}
+error: 
+    status - 500 
+    message - ReferenceError: checkUser is not defined
+    at _callee2$ (C:\Users\uday5\backEnd\Fundoo_Note\src\services\/user.service.js:14:9)
+    at tryCatch (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.createAnUser (C:\Users\uday5\backEnd\Fundoo_Note\src\services\/user.service.js:13:26)
+    at _callee$ (C:\Users\uday5\backEnd\Fundoo_Note\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at createAnUser (C:\Users\uday5\backEnd\Fundoo_Note\src\controllers\/user.controller.js:10:26)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\uday5\backEnd\Fundoo_Note\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1589:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-12-14T09:53:52.657Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:54:20.741Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:54:20.762Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:54:45.480Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:54:45.500Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:56:00.893Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:56:00.914Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:56:58.677Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:56:58.723Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:57:25.666Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:57:25.687Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:58:33.154Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:58:33.178Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T09:59:06.871Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T09:59:06.898Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:00:07.741Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:00:07.763Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:04:13.383Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:04:13.401Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:05:30.472Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:05:30.491Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:06:51.157Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:06:51.180Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:08:38.613Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:08:38.635Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:09:01.191Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:09:01.214Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:10:25.443Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:10:25.476Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:10:29.167Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:10:29.189Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee$ (C:\Users\uday5\backEnd\Fundoo_Note\src\services\/user.service.js:8:12)
+    at tryCatch (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\uday5\backEnd\Fundoo_Note\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-12-14T10:10:39.409Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:10:56.513Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:10:56.533Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:11:08.659Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:11:08.678Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:11:29.155Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:11:29.176Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:26:00.157Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:26:00.176Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:26:28.132Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:26:28.152Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:28:54.849Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:28:54.869Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:30:02.558Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:30:02.579Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-12-14T10:30:34.904Z"}
+info: Connected to the database. {"timestamp":"2023-12-14T10:30:34.925Z"}
