@@ -217,3 +217,129 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2023-12-15T05:38:02.981Z"}
+error: 
+    status - 500 
+    message - ReferenceError: bcrypt is not defined
+    at _callee$ (C:\Users\uday5\backEnd\Fundoo_NoteUser\src\services\/user.service.js:6:9)
+    at tryCatch (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.createAnUser (C:\Users\uday5\backEnd\Fundoo_NoteUser\src\services\/user.service.js:4:26)
+    at _callee$ (C:\Users\uday5\backEnd\Fundoo_NoteUser\src\controllers\/user.controller.js:12:40)
+    at tryCatch (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at createAnUser (C:\Users\uday5\backEnd\Fundoo_NoteUser\src\controllers\/user.controller.js:10:26)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1589:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-12-15T08:34:31.175Z"}
+error: 
+    status - 500 
+    message - ObjectParameterError: Parameter "filter" to findOne() must be an object, got uday563678@gmail.com
+    at model.Query.Query.findOne (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\mongoose\lib\query.js:2321:16)
+    at Function.findOne (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\mongoose\lib\model.js:2275:13)
+    at _callee$ (C:\Users\uday5\backEnd\Fundoo_NoteUser\src\services\/user.service.js:7:28)
+    at tryCatch (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.createAnUser (C:\Users\uday5\backEnd\Fundoo_NoteUser\src\services\/user.service.js:4:26)
+    at _callee$ (C:\Users\uday5\backEnd\Fundoo_NoteUser\src\controllers\/user.controller.js:12:40)
+    at tryCatch (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at createAnUser (C:\Users\uday5\backEnd\Fundoo_NoteUser\src\controllers\/user.controller.js:10:26)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\uday5\backEnd\Fundoo_NoteUser\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at IncomingMessage.emit (node:domain:488:12) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-12-15T08:35:58.814Z"}

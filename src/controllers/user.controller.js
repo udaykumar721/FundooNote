@@ -10,21 +10,16 @@ import * as UserService from '../services/user.service';
 export const createAnUser = async (req, res, next) => {    
   try {
     const userData = await UserService.createAnUser(req.body);
-    if(userData == null){
       res.status(HttpStatus.CREATED).json({
         code: HttpStatus.CREATED,
         data: userData,
-        message: 'User Exist Already!!'
-      });
-    }else{
-      res.status(HttpStatus.CREATED).json({
-        code: HttpStatus.CREATED,
-        data: userData,
-        message: 'User Created Successfully!!'
-      });
-    }  
+        message: 'User Registration Successfully!!'
+      }); 
   } catch (error) {
-    next(error)
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message:`${error}`
+    });
   }
 };
 
@@ -37,24 +32,15 @@ export const createAnUser = async (req, res, next) => {
 export const loginUser = async (req, res, next) => {
   try {
     const data = await UserService.loginUser(req.body.mail,req.body.password);
-    if(data!=null && data!=0){
         res.status(HttpStatus.CREATED).json({
         code: HttpStatus.CREATED,
         data: data,
         message: 'User Login Successfully!'
       });
-    }else if(data==0){
-        res.status(HttpStatus.NOT_ACCEPTABLE).json({
-        code: HttpStatus.NOT_ACCEPTABLE,
-        message: 'Wrong PassWord Enter The Correct PassWord!'
-      });
-    }else{
-        res.status(HttpStatus.NOT_ACCEPTABLE).json({
-        code: HttpStatus.NOT_ACCEPTABLE,
-        message: 'User Does not Exists!'
-      });
-   }
   } catch (error) {
-    next(error);
+    res.status(HttpStatus.BAD_REQUEST).json({
+    code: HttpStatus.BAD_REQUEST,
+    message:`${error}`
+    });
   }
 };
