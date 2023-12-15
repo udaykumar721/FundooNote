@@ -8,3 +8,13 @@ export const createAnUser = async (body) => {
     return userData;
   }
 };
+export const loginUser = async (mail,password) => {
+  const data = await User.findOne({mail})
+  if(data!=null){
+    if(data.password === password ){
+      return data
+    }else{
+      return 0
+    }
+  }
+};
